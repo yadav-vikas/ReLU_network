@@ -5,7 +5,7 @@ rectified linear activation function
 
 ReLU is defined as g(x) = max(0,x). It is 0 when x is negative and equal to x when positive. Due to it’s lower saturation region, it is highly trainable and decreases the cost function far more quickly than sigmoid.
 
-### acitation functions
+### acitation function
 
 Inline-style: 
 ![alt text](https://images.app.goo.gl/9umj1oAi4Y5DmecV6 "activation functions")
