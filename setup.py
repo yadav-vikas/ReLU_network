@@ -7,8 +7,8 @@ def readme():
 
 
 setup(
-    name="ReLU-nueral network",
-    version="1.0.0",
+    name="ReLUs",
+    version="1.0.1",
     description="A Python package for direct implementation of ReLU network.",
     long_description=readme(),
     long_description_content_type="text/markdown",
