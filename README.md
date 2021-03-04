@@ -17,7 +17,11 @@ Inline-style:
 
 note:please check out links if images are broken
 https://images.app.goo.gl/9umj1oAi4Y5DmecV6
+
+
 https://images.app.goo.gl/gkYh64M1wRKtjGuSA
+
+
 direct implementation of ReLU neural networks
 
 ### install
