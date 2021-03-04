@@ -8,12 +8,12 @@ ReLU is defined as g(x) = max(0,x). It is 0 when x is negative and equal to x wh
 ### acitation functions
 
 Inline-style: 
-![alt text](https://images.app.goo.gl/9umj1oAi4Y5DmecV6 "activation functions")
+(https://images.app.goo.gl/9umj1oAi4Y5DmecV6 "activation functions")
 
 ### ReLU acitation function
 
 Inline-style: 
-![alt text](https://images.app.goo.gl/gkYh64M1wRKtjGuSA "ReLU activation functions")
+(https://images.app.goo.gl/gkYh64M1wRKtjGuSA "ReLU activation functions")
 
 direct implementation of ReLU neural networks
 
