@@ -1,6 +1,6 @@
 # ReLU neural network
 
-### This is in development phase it may not work.
+### -----This is in development phase it may not work.
 rectified linear activation function
 
 ## What is ReLU ?
